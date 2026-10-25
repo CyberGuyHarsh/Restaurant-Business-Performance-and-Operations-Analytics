@@ -13,7 +13,7 @@ This project presents an interactive, multi-page Power BI dashboard designed to 
 <!-- Add a screenshot of your dashboard to the repository, then replace the example path below. -->
 <!-- ![Restaurant Analytics Dashboard](images/dashboard-overview.png) -->
 
-*Dashboard screenshots will be added here.*
+*Dashboard screenshots added in dashboard folder.*
 
 ## Business Objective
 
